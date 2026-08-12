@@ -1,0 +1,1 @@
+A profitability analysis of 10,208 vehicle sales, covering three things: an interactive dashboard (with KPI cards, a stock-aging chart, a valuation-type comparison, and an affiliate performance chart), a data quality review that corrected 4 records and a written report summarizing the findings with clear recommendations.
