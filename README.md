@@ -29,3 +29,9 @@ A profitability analysis of 10,208 vehicle sales, identifying the biggest driver
 ## Files
 
 - `Vehicle-Trading-Performance-Dashboard.pbix` — Power BI report
+- ## Dashboard preview
+- <img width="608" height="333" alt="Screenshot 2026-08-12 213951" src="https://github.com/user-attachments/assets/f6b9295b-5b3f-4abc-8a2e-993bd3d353aa" />
+<img width="508" height="285" alt="Screenshot 2026-08-12 213804" src="https://github.com/user-attachments/assets/6fed8584-41e6-45ff-b0ef-08e729b4d246" />
+<img width="596" height="336" alt="Screenshot 2026-08-12 214108" src="https://github.com/user-attachments/assets/fdfa576c-4141-496d-9693-25c607fe8210" />
+
+
